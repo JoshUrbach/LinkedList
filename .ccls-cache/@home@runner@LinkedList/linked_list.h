@@ -34,7 +34,7 @@ public: //function prototypes
   void DeleteNode(int delData);
 
   //Prints the Linked List
-  void printList();
+  void PrintList();
 
   
 };
